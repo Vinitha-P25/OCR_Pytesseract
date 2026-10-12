@@ -1,0 +1,23 @@
+# Python virtual environment
+
+.venv/
+
+# Python cache files
+
+**pycache**/
+*.py[cod]
+
+# Generated OCR images
+
+converted_images/
+preprocessed_images/
+
+# Generated OCR output
+
+extracted_text.txt
+ocr_comparison.txt
+cleaned_text.txt
+
+# Environment files
+
+.venv
